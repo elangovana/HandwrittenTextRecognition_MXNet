@@ -6,8 +6,6 @@
 
 import random
 import string
-import  matplotlib
-matplotlib.use('TkAgg')
 import mxnet as mx
 import numpy as np
 from mxboard import SummaryWriter
