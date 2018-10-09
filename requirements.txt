@@ -1,0 +1,6 @@
+mxnet
+matplotlib
+scikit-image
+mxboard
+numpy
+opencv-python
